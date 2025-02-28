@@ -11,7 +11,7 @@ I am a **technical writer** with experience in creating clear and concise docume
 - [Copper.co API documentation](https://developer.copper.co/guides/introduction)
 
 ### 2️⃣ User Guides
-- [Copper.co Zendesk User Guidesl](./User-Manual.md)
+- [Copper.co Zendesk User Guides](./User-Manual.md)
 - [Copper.co Confluence User Guides](./Installation-Guide.md)
 - [Standuply Knowledge base](https://help.standuply.com/en/)
 
