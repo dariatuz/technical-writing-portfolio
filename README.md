@@ -7,16 +7,16 @@ I am a **technical writer** with experience in creating clear and concise docume
 
 ## 📝 Writing Samples
 ### 1️⃣ API Documentation
-- [Sample API Documentation](./API-Docs-Sample.md)
+- [API Documentation samples](./API-Docs-Sample.md)
 - [Copper.co API documentation](https://developer.copper.co/guides/introduction)
 
 ### 2️⃣ User Guides
-- [Software User Manual](./User-Manual.md)
-- [Installation Guide](./Installation-Guide.md)
+- [Copper.co Zendesk User Guidesl](./User-Manual.md)
+- [Copper.co Confluence User Guides](./Installation-Guide.md)
+- [Standuply Confluence User Guides](./Installation-Guide.md)
 
 ### 3️⃣ Tutorials
-- [How to Set Up a Web Server](./Web-Server-Tutorial.md)
-- [Beginner’s Guide to Markdown](./Markdown-Guide.md)
+- [Mastering Standuply: A Complete Tutorial Series](https://www.youtube.com/@standuply9152)
 
 ## 📬 Contact Me
 🔗 **LinkedIn:** [Daria Tuzova](https://www.linkedin.com/in/daria-tuzova/)  
