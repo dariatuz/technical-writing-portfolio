@@ -7,7 +7,7 @@ I am a **technical writer** with experience in creating clear and concise docume
 
 ## 📝 Writing Samples
 ### 1️⃣ API Documentation
-- [API Documentation samples](./API-Docs-Sample.md)
+- [API Documentation samples](images/api-docs)
 - [Copper.co API documentation](https://developer.copper.co/guides/introduction)
 
 ### 2️⃣ User Guides
