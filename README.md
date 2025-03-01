@@ -12,7 +12,7 @@ I am a **technical writer** with experience in creating clear and concise docume
 
 ### 2️⃣ User Guides
 - [Copper.co Zendesk User Guides](./User-Manual.md)
-- [Copper.co Confluence User Guides](./Installation-Guide.md)
+- [Copper.co Confluence User Guides](images/confluence)
 - [Standuply Knowledge base](https://help.standuply.com/en/)
 
 ### 3️⃣ Tutorials
