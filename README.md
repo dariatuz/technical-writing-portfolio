@@ -13,6 +13,7 @@ I am a **technical writer** with experience in creating clear and concise docume
 ### 2️⃣ User Guides
 - [Copper.co Confluence User Guides](images/confluence)
 - [Standuply Knowledge base](https://help.standuply.com/en/)
+- [Besser OEM manual](https://github.com/dariatuz/technical-writing-portfolio/tree/main/images/OEM%20manual)
 
 ### 3️⃣ Tutorials
 - [Mastering Standuply: A Complete Tutorial Series](https://www.youtube.com/@standuply9152)
